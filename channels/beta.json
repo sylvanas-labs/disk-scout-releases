@@ -6,7 +6,6 @@
     "installer_url":  "https://github.com/sylvanas-labs/disk-scout-releases/releases/download/v0.1.0-beta.6/DiskScout-beta-0.1.0-beta.6-Setup.exe",
     "zip_url":  "https://github.com/sylvanas-labs/disk-scout-releases/releases/download/v0.1.0-beta.6/DiskScout-beta-0.1.0-beta.6-win-x64.zip",
     "notes":  "Channel: beta\nSource branch: develop\nSource commit: 8b007234bbce7f5a6843746ec395acfc136fd252",
-    "sha256":  "f3d930e04ebe97958a8b3baa5f044b0b4830d1441e8d3942faa8504fb3085db5",
     "source_branch":  "develop",
     "source_commit":  "8b007234bbce7f5a6843746ec395acfc136fd252"
 }
