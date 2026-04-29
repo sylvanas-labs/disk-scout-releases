@@ -1,12 +1,12 @@
 ﻿{
     "track":  "beta",
-    "version":  "0.1.0-beta.2",
-    "published_at":  "2026-04-29T14:10:29Z",
-    "release_url":  "https://github.com/sylvanas-labs/disk-scout-releases/releases/tag/v0.1.0-beta.2",
-    "installer_url":  "https://github.com/sylvanas-labs/disk-scout-releases/releases/download/v0.1.0-beta.2/DiskScout-beta-0.1.0-beta.2-Setup.exe",
-    "zip_url":  "https://github.com/sylvanas-labs/disk-scout-releases/releases/download/v0.1.0-beta.2/DiskScout-beta-0.1.0-beta.2-win-x64.zip",
-    "notes":  "Channel: beta\nSource branch: develop\nSource commit: e90ffdea31fa2a609d00263bcaf9ff2624d8a0ac",
-    "sha256":  "f4a5bfa72006fd0129c0ce7c100678d478c3c586d4c915d64a8d6342aa77f2bc",
+    "version":  "0.1.0-beta.3",
+    "published_at":  "2026-04-29T14:34:05Z",
+    "release_url":  "https://github.com/sylvanas-labs/disk-scout-releases/releases/tag/v0.1.0-beta.3",
+    "installer_url":  "https://github.com/sylvanas-labs/disk-scout-releases/releases/download/v0.1.0-beta.3/DiskScout-beta-0.1.0-beta.3-Setup.exe",
+    "zip_url":  "https://github.com/sylvanas-labs/disk-scout-releases/releases/download/v0.1.0-beta.3/DiskScout-beta-0.1.0-beta.3-win-x64.zip",
+    "notes":  "Channel: beta\nSource branch: develop\nSource commit: 78442e2f2b43d90bbcda9157d862d5e3daa07995",
+    "sha256":  "3125b193829629cdbfaba57e1b4959d471ae79cbbe052305d293af54de2a4982",
     "source_branch":  "develop",
-    "source_commit":  "e90ffdea31fa2a609d00263bcaf9ff2624d8a0ac"
+    "source_commit":  "78442e2f2b43d90bbcda9157d862d5e3daa07995"
 }
