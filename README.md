@@ -2,29 +2,23 @@
 
 This repository hosts public release artifacts for **Disk Scout**, a Windows disk analysis and cleanup tool.
 
-> Source code: [sylvanas-labs/disk-scout](https://github.com/sylvanas-labs/disk-scout)
+> Source code: [sylvanas-labs/disk-scout](https://github.com/sylvanas-labs/disk-scout) (private)
 
 ## Downloads
 
-Go to the [Releases](../../releases) tab to download the latest version.
+Go to the [Releases](../../releases) tab to download the latest build.
 
-| Platform | File | Notes |
-|----------|------|-------|
+| Platform | Artifact | Use |
+| --- | --- | --- |
 | Windows | `DiskScout-*-Setup.exe` | User-level Windows installer |
-| Windows | `DiskScout-*-win-x64.zip` | Portable runtime archive |
 
-## Release Tracks
+## What This Demonstrates
 
-| Track | Tag format | Description |
-|-------|------------|-------------|
-| Stable | `v1.2.3` | Built from `main`. |
-| Beta | `v1.2.3-beta.N` | Built from `develop`. |
+- Windows desktop utility design.
+- Duplicate detection, large-file discovery, cleanup, and safety-oriented deletion workflows.
+- Release automation with public channel manifests.
+- Source-private product distribution.
 
-## Installing on Windows
+## Source Policy
 
-Run the setup executable and follow the installer prompts. Disk Scout installs to your user profile and does not require administrator privileges.
-
-## Channel Manifests
-
-The CI workflow updates `channels/beta.json` and `channels/stable.json` when releases are published.
-
+This repository intentionally contains release artifacts and public documentation only. Product source code remains private.
