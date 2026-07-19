@@ -15,7 +15,7 @@ jobs:
     # author_association reflects the PR author's relationship to the repo at the time the PR is opened.
     # OWNER, MEMBER, and COLLABORATOR are kept; everyone else (CONTRIBUTOR, FIRST_TIMER, NONE, etc.) is closed.
     if: github.event.pull_request.author_association != 'OWNER' && github.event.pull_request.author_association != 'MEMBER' && github.event.pull_request.author_association != 'COLLABORATOR'
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted, Windows]
     steps:
       - run: gh pr close ${{ github.event.pull_request.number }} -R ${{ github.repository }} -c "This repository does not accept external pull requests."
         env:
