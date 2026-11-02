@@ -1,12 +1,12 @@
 {
     "track":  "alpha",
-    "version":  "0.1.0-alpha.26",
-    "published_at":  "2026-11-02T15:33:07Z",
-    "release_url":  "https://github.com/sylvanas-labs/disk-scout-releases/releases/tag/v0.1.0-alpha.26",
-    "installer_url":  "https://github.com/sylvanas-labs/disk-scout-releases/releases/download/v0.1.0-alpha.26/DiskScout-alpha-0.1.0-alpha.26-Setup.exe",
-    "zip_url":  "https://github.com/sylvanas-labs/disk-scout-releases/releases/download/v0.1.0-alpha.26/DiskScout-alpha-0.1.0-alpha.26-win-x64.zip",
-    "notes":  "Channel: alpha\nSource branch: alpha\nSource commit: db0bcff3577d909dc94f7e5c2930cf6e7e597c02",
-    "sha256":  "6baf3650c37783c2aa76125aaa762b1b501741e4322d59024c554a668bae9ec8",
+    "version":  "0.1.0-alpha.27",
+    "published_at":  "2026-11-02T15:47:58Z",
+    "release_url":  "https://github.com/sylvanas-labs/disk-scout-releases/releases/tag/v0.1.0-alpha.27",
+    "installer_url":  "https://github.com/sylvanas-labs/disk-scout-releases/releases/download/v0.1.0-alpha.27/DiskScout-alpha-0.1.0-alpha.27-Setup.exe",
+    "zip_url":  "https://github.com/sylvanas-labs/disk-scout-releases/releases/download/v0.1.0-alpha.27/DiskScout-alpha-0.1.0-alpha.27-win-x64.zip",
+    "notes":  "Channel: alpha\nSource branch: alpha\nSource commit: 651d27a12ac1106768611ff89400612445a62eb5",
+    "sha256":  "c16d54652ba1bba541e382e5c6a9a307bba41a70fee8079a208f56ad62b7178d",
     "source_branch":  "alpha",
-    "source_commit":  "db0bcff3577d909dc94f7e5c2930cf6e7e597c02"
+    "source_commit":  "651d27a12ac1106768611ff89400612445a62eb5"
 }
